@@ -99,3 +99,11 @@ https://starling-speak.online/
 88_thirds : 0 0 0 4 4 4 8 8 8 12 12 12
 89_octaves : 0 0 0 0 0 0 0 0 0 0 12 12 12 12 12 12 12 12 12 12 24 24 24 24 24 24 24 24 24 24 36 36 36 36 36 36 36 36 36 48 48 48 48 48 48 48 48 48
 
+
+Keys: Q  2  W  3  E  R  5  T  6  Y  7  U
+Note: C  C# D  D# E  F  F# G  G# A  A# B
+MIDI: 72 73 74 75 76 77 78 79 80 81 82 83
+
+Keys: Z  S  X  D  C  V  G  B  H  N  J  M
+Note: C  C# D  D# E  F  F# G  G# A  A# B
+MIDI: 60 61 62 63 64 65 66 67 68 69 70 71
