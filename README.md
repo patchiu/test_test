@@ -67,3 +67,17 @@ https://starling-speak.online/
 55 messiaen5 : 0 0 1 1 5 5 6 6 7 7 11 11
 56 messiaen6 : 0 0 2 2 4 4 5 5 6 6 8 8
 57 messiaen7 : 0 0 1 1 2 3 5 6 7 8 9 11
+
+
+# 1. Major Scale
+# expr if($f1<1\,0\,if($f1<3\,2\,if($f1<4.5\,4\,if($f1<6\,5\,if($f1<8\,7\,if($f1<10\,9\,if($f1<11.5\,11\,0)))))))
+# 2. Natural Minor Scale
+# expr if($f1<1\,0\,if($f1<2.5\,2\,if($f1<4\,3\,if($f1<6\,5\,if($f1<7.5\,7\,if($f1<9\,8\,if($f1<11\,10\,0)))))))
+# 3. Harmonic Minor Scale
+# expr if($f1<1\,0\,if($f1<2.5\,2\,if($f1<4\,3\,if($f1<6\,5\,if($f1<7.5\,7\,if($f1<9.5\,8\,if($f1<11.5\,11\,0)))))))
+# 4. Melodic Minor Scale (ascending)
+# expr if($f1<1\,0\,if($f1<2.5\,2\,if($f1<4\,3\,if($f1<6\,5\,if($f1<8\,7\,if($f1<10\,9\,if($f1<11.5\,11\,0)))))))
+# 5. Major Pentatonic Scale
+# expr if($f1<1\,0\,if($f1<3\,2\,if($f1<5.5\,4\,if($f1<8\,7\,if($f1<10.5\,9\,0)))))
+# 6. Minor Pentatonic Scale
+# expr if($f1<1.5\,0\,if($f1<4\,3\,if($f1<6\,5\,if($f1<8.5\,7\,if($f1<11\,10\,0))))
