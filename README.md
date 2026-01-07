@@ -77,6 +77,8 @@ https://starling-speak.online/
 # expr if($f1<1\,0\,if($f1<2.5\,2\,if($f1<4\,3\,if($f1<6\,5\,if($f1<7.5\,7\,if($f1<9.5\,8\,if($f1<11.5\,11\,0)))))))
 # 4. Melodic Minor Scale (ascending)
 # expr if($f1<1\,0\,if($f1<2.5\,2\,if($f1<4\,3\,if($f1<6\,5\,if($f1<8\,7\,if($f1<10\,9\,if($f1<11.5\,11\,0)))))))
+
+https://www.youtube.com/watch?v=nXIJJycy084
 # 5. Major Pentatonic Scale
 # expr if($f1<1\,0\,if($f1<3\,2\,if($f1<5.5\,4\,if($f1<8\,7\,if($f1<10.5\,9\,0)))))
 # 6. Minor Pentatonic Scale
