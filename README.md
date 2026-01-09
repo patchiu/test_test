@@ -7,8 +7,7 @@ current_date = datetime.now()
 current_date.strftime('%Y%m%d_%H%M')
 
 https://starling-speak.online/
-https://www.looperman.com/loops/detail/414339/beatbox-perc-loop-170-bpm-free-170bpm-breakbeat-beatbox-loop
-https://www.looperman.com/loops?ttempo=170&ftempo=170&page=2
+
 
 
 
