@@ -7,8 +7,11 @@ current_date = datetime.now()
 current_date.strftime('%Y%m%d_%H%M')
 
 https://starling-speak.online/
+
+
 https://www.youtube.com/watch?v=c3UzlQqMX3c
 
+https://www.youtube.com/watch?v=mUtjRRoQ1ek
 
 
 0 major : 0 0 2 2 4 4 5 5 7 7 9 11
