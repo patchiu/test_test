@@ -8,6 +8,8 @@ current_date.strftime('%Y%m%d_%H%M')
 
 https://starling-speak.online/
 
+https://1drv.ms/f/c/2919f96bf7b3a7e6/IgDPSfmd1WlVQ431wibVMQe-ASX7TmwnAXDN1JSx4RqqsFE?e=UidTo5
+
 
 https://www.youtube.com/watch?v=c3UzlQqMX3c
 
