@@ -15,8 +15,7 @@ https://www.youtube.com/watch?v=c3UzlQqMX3c
 
 https://www.youtube.com/watch?v=mUtjRRoQ1ek
 
-
-https://www.youtube.com/watch?v=3IPcjNsV17Q
+https://www.youtube.com/watch?v=PzoctG9Qn94
 
 0 major : 0 0 2 2 4 4 5 5 7 7 9 11
 1 minor : 0 0 2 2 3 3 5 5 7 7 8 10
