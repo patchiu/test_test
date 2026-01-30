@@ -17,6 +17,7 @@ https://www.youtube.com/watch?v=mUtjRRoQ1ek
 
 https://www.youtube.com/watch?v=ikz_YcsmuUE
 
+https://www.threads.com/@s3lf_du3l/post/DUFP72cj5RS?xmt=AQF0O5kWq2RzxlqOivPOnirZy8mTiKIQ3oSHaz7QSOdnOFK_jLxUgF7-AMxeg-MdumES3CA&slof=1
 
 0 major : 0 0 2 2 4 4 5 5 7 7 9 11
 1 minor : 0 0 2 2 3 3 5 5 7 7 8 10
