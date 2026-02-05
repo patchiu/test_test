@@ -13,10 +13,6 @@ https://1drv.ms/f/c/2919f96bf7b3a7e6/IgDPSfmd1WlVQ431wibVMQe-ASX7TmwnAXDN1JSx4Rq
 
 https://www.youtube.com/watch?v=c3UzlQqMX3c
 
-https://www.youtube.com/watch?v=mUtjRRoQ1ek
-
-https://www.youtube.com/watch?v=ikz_YcsmuUE
-
 https://www.threads.com/@s3lf_du3l/post/DUFP72cj5RS?xmt=AQF0O5kWq2RzxlqOivPOnirZy8mTiKIQ3oSHaz7QSOdnOFK_jLxUgF7-AMxeg-MdumES3CA&slof=1
 
 0 major : 0 0 2 2 4 4 5 5 7 7 9 11
