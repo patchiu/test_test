@@ -6,6 +6,8 @@ from datetime import datetime
 current_date = datetime.now()
 current_date.strftime('%Y%m%d_%H%M')
 
+https://music-theory.aizcutei.com/post/%E8%8A%82%E5%A5%8F%E7%AF%87/5-Clave
+
 https://starling-speak.online/
 
 https://1drv.ms/f/c/2919f96bf7b3a7e6/IgDPSfmd1WlVQ431wibVMQe-ASX7TmwnAXDN1JSx4RqqsFE?e=UidTo5
