@@ -1,0 +1,26 @@
+def onCook(scriptOp):
+    scriptOp.clear()
+    
+    table = op('/project1/trail_table')
+    if table.numRows < 3:
+        return
+    
+    track_ids = set()
+    for row in range(2, table.numRows):
+        track_ids.add(int(table[row, 'id'].val))
+    
+    for tid in track_ids:
+        if tid == 0:
+            continue
+        
+        points = []
+        for row in range(2, table.numRows):
+            if int(table[row, 'id'].val) == tid:
+                x = float(table[row, 'tx'].val)
+                y = 720 - float(table[row, 'ty'].val)  # FLIP Y
+                points.append((x, y))
+        
+        if len(points) > 1:
+            poly = scriptOp.appendPoly(len(points), closed=False)
+            for i, (x, y) in enumerate(points):
+                poly[i].point.P = (x, y, 0)
