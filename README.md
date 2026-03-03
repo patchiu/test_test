@@ -1,4 +1,4 @@
-\
+\\
 from datetime import datetime
 
 current_date = datetime.now()
@@ -81,4 +81,7 @@ https://www.threads.com/@s3lf_du3l/post/DUFP72cj5RS?xmt=AQF0O5kWq2RzxlqOivPOnirZ
 由（主）在（有/無）意識的情況下生成的（編排/即興），把創作（抽象/具體）化
 
 （此刻/整過程）（有/冇）可能（穩定/失控）
+
+
+程式，邏輯，想法，流程，設計，樣本，素材，聲音，連結，節奏
 
