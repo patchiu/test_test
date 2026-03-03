@@ -1,4 +1,4 @@
-
+\
 from datetime import datetime
 
 current_date = datetime.now()
@@ -74,16 +74,11 @@ https://www.threads.com/@s3lf_du3l/post/DUFP72cj5RS?xmt=AQF0O5kWq2RzxlqOivPOnirZ
 56 messiaen6 : 0 0 2 2 4 4 5 5 6 6 8 8
 57 messiaen7 : 0 0 1 1 2 3 5 6 7 8 9 11
 
+在重複中尋找隨機性，將規律放進混沌裏
 
-# 1. Major Scale
-# expr if($f1<1\,0\,if($f1<3\,2\,if($f1<4.5\,4\,if($f1<6\,5\,if($f1<8\,7\,if($f1<10\,9\,if($f1<11.5\,11\,0)))))))
-# 2. Natural Minor Scale
-# expr if($f1<1\,0\,if($f1<2.5\,2\,if($f1<4\,3\,if($f1<6\,5\,if($f1<7.5\,7\,if($f1<9\,8\,if($f1<11\,10\,0)))))))
-# 3. Harmonic Minor Scale
-# expr if($f1<1\,0\,if($f1<2.5\,2\,if($f1<4\,3\,if($f1<6\,5\,if($f1<7.5\,7\,if($f1<9.5\,8\,if($f1<11.5\,11\,0)))))))
-# 4. Melodic Minor Scale (ascending)
-# expr if($f1<1\,0\,if($f1<2.5\,2\,if($f1<4\,3\,if($f1<6\,5\,if($f1<8\,7\,if($f1<10\,9\,if($f1<11.5\,11\,0)))))))
-# 5. Major Pentatonic Scale
-# expr if($f1<1\,0\,if($f1<3\,2\,if($f1<5.5\,4\,if($f1<8\,7\,if($f1<10.5\,9\,0)))))
-# 6. Minor Pentatonic Scale
-# expr if($f1<1.5\,0\,if($f1<4\,3\,if($f1<6\,5\,if($f1<8.5\,7\,if($f1<11\,10\,0))))
+決定/隨心把（物）（組合折分），（操控/放任）其（抽取/擴展）程序
+
+由（主）在（有/無）意識的情況下生成的（編排/即興），把創作（抽象/具體）化
+
+（此刻/整過程）（有/冇）可能（穩定/失控）
+
