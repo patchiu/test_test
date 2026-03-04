@@ -4,6 +4,8 @@ from datetime import datetime
 current_date = datetime.now()
 current_date.strftime('%Y%m%d_%H%M')
 
+https://www.youtube.com/watch?v=1odI7eX33gk&list=RD1odI7eX33gk&start_radio=1
+
 https://music-theory.aizcutei.com/post/%E8%8A%82%E5%A5%8F%E7%AF%87/5-Clave
 
 https://starling-speak.online/
